@@ -1,1 +1,0 @@
-advancement grant @s only cultepack:visible_10_invoc

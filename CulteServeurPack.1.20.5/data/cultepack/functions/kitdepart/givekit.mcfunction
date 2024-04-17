@@ -1,1 +1,0 @@
-execute as @p at @s run function cultepack:kitdepart/kit_dep
