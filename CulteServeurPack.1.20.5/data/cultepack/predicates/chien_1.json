@@ -3,6 +3,6 @@
     "entity": "this",
     "predicate": {
       "type": "minecraft:item",
-      "nbt": "{Item:{components:{custom_data:{Tags:chien_1}},id:popped_chorus_fruit}}"
+       "nbt":"{Item:{components:{\"minecraft:custom_data\":{Tags:chien_1}},id:\"minecraft:popped_chorus_fruit\"}}"
     }
   }

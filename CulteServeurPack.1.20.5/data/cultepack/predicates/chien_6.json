@@ -2,6 +2,7 @@
     "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
-        "nbt": "{Item:{id:\"minecraft:popped_chorus_fruit\",tag:{Tags:chien_6}}}"
+        "type": "minecraft:item",
+         "nbt":"{Item:{components:{\"minecraft:custom_data\":{Tags:chien_6}},id:\"minecraft:popped_chorus_fruit\"}}"
+      }
     }
-  }
