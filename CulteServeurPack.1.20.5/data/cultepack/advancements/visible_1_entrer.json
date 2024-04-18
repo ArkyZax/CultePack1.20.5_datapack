@@ -2,8 +2,27 @@
 	"display": {
 		"icon": {
 			"id": "minecraft:player_head",
-			"nbt": "{display:{Name:\"{\\\"text\\\":\\\"Illusioner\\\"}\"},SkullOwner:{Id:[I;-962516525,1730102517,-1928593818,-65183949],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjczYWQ1ODUxOWUzMGE2MjlhMDNiNzU4NWM1MjVhOWM2Nzg5ZjY1Njc4NjQ3NzY3NjdlNmNhYTEwNDE2YzhkZiJ9fX0=\"}]}}}"
-		},
+			"components": {
+				
+					"minecraft:custom_name": "{\"text\":\"Illusioner\"}",
+					"minecraft:profile": {
+					  "id": [
+						-962516525,
+						1730102517,
+						-1928593818,
+						-65183949
+					  ],
+					  "properties": [
+						{
+						  "name": "textures",
+						  "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjczYWQ1ODUxOWUzMGE2MjlhMDNiNzU4NWM1MjVhOWM2Nzg5ZjY1Njc4NjQ3NzY3NjdlNmNhYTEwNDE2YzhkZiJ9fX0="
+						}
+					  ]
+					}
+				  
+
+			  }
+					},
 		"title": "§4Culte Pack",
 		"description": "§eLe pack du server",
 		"background": "minecraft:textures/entity/end_portal.png",
