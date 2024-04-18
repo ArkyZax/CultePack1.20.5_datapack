@@ -32,8 +32,8 @@
 									{},
 									{
 									  "id": "carved_pumpkin",
-									  "tag": {
-										"CustomModelData": 38
+									  "components":{
+										"custom_model_data":38
 									  },
 									  "Count": 1
 									}
