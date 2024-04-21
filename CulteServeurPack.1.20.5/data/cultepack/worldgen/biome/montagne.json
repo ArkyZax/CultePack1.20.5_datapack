@@ -12,11 +12,7 @@
       "ambient_sound": {
         "sound_id": "montagnes"
       }
-      ,
-    "additions_sound": {
-      "sound": "loups",
-      "tick_chance": 0.0005
-    }
+      
     },
     "spawners": {
       "creature": [
