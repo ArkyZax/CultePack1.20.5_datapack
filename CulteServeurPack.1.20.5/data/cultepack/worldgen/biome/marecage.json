@@ -8,7 +8,10 @@
 		"water_color": 3832426,
 		"water_fog_color": 5077600,
 		"grass_color": 2407685,
-		"foliage_color": 9285927
+		"foliage_color": 9285927,
+		"ambient_sound": {
+		  "sound_id": "marais"
+		}
 	},
 	"spawners": {
 		"monster": [

@@ -9,7 +9,9 @@
 		"water_fog_color": 1769268,
 		"grass_color": 1315845,
 		"foliage_color": 3222315,
-		    "ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+		"ambient_sound": {
+		  "sound_id": "zone_morte"
+		},
     "mood_sound": {
       "sound": "minecraft:ambient.basalt_deltas.mood",
       "tick_delay": 6000,

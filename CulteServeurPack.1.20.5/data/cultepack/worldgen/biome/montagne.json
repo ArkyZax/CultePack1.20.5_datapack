@@ -10,8 +10,13 @@
       "grass_color": 1923601,
       "foliage_color": 1986077,
       "ambient_sound": {
-        "sound_id": "ambient.magical_forest_1"
+        "sound_id": "montagnes"
       }
+      ,
+    "additions_sound": {
+      "sound": "loups",
+      "tick_chance": 0.0005
+    }
     },
     "spawners": {
       "creature": [
