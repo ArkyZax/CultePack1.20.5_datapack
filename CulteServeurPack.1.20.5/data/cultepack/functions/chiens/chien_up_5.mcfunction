@@ -10,4 +10,4 @@ effect give @s levitation 2 0
 effect give @s instant_health 2 20
 data merge entity @s {CollarColor:4,CustomName:'{"text":"Compagnon-Niveau 5","color":"#FFAA00"}'}
 tell @p +2 attaque (14)
-tell @p +10 pv (50)
+tell @p +10 pv (70)
