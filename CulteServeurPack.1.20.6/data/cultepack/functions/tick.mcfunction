@@ -68,7 +68,7 @@ execute as @e[type=item] if predicate cultepack:chien_3 at @s as @e[type=wolf,ta
 execute as @e[type=item] if predicate cultepack:chien_4 at @s as @e[type=wolf,tag=chien_up_3,distance=..1,limit=1] run function cultepack:chiens/chien_up_4
 execute as @e[type=item] if predicate cultepack:chien_5 at @s as @e[type=wolf,tag=chien_up_4,distance=..1,limit=1] run function cultepack:chiens/chien_up_5
 execute as @e[type=item] if predicate cultepack:chien_6 at @s as @e[type=wolf,tag=chien_up_5,distance=..1,limit=1] run function cultepack:chiens/chien_up_6
-execute as @e[type=player] at @s as @e[type=wolf,tag=chien_vie,distance=..3,limit=1] run function cultepack:chiens/vie 
+#execute as @e[type=player] at @s as @e[type=wolf,tag=chien_vie,distance=..3,limit=1] run function cultepack:chiens/vie 
 
 
 
