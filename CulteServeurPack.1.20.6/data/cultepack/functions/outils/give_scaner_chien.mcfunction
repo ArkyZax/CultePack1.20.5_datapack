@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick[custom_name='{"color":"green","text":"Scanner de Chien"}',custom_data={tag:["scaner_1"]}] 1

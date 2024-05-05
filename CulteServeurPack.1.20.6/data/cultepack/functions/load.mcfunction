@@ -2,6 +2,12 @@
 scoreboard objectives remove carrot 
 scoreboard objectives add carrot minecraft.used:minecraft.carrot_on_a_stick
 
+#scoreboard outils
+scoreboard objectives remove chien_vie 
+scoreboard objectives add chien_vie dummy
+scoreboard objectives remove chien_nom 
+scoreboard objectives add chien_nom dummy
+
 #les calculs de traj des sceptre
 scoreboard objectives remove motion_x1 
 scoreboard objectives remove motion_y1 
