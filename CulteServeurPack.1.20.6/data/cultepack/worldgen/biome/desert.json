@@ -14,6 +14,7 @@
     "spawn_costs": {},
     "carvers": {"air": [
      
+        "minecraft:canyon",
         "minecraft:canyon"
       ]},
     "features": [
@@ -32,7 +33,11 @@
           "minecraft:patch_grass_jungle",
           "minecraft:patch_dead_bush"
         ],
-
+        [
+          "minecraft:dripstone_cluster",
+          "minecraft:large_dripstone",
+          "minecraft:pointed_dripstone"
+        ],
 
         ["cultepack:bedrock"]
     ]
