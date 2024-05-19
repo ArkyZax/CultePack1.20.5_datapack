@@ -1,7 +1,8 @@
 {
 	"type": "minecraft:jigsaw",
 	"biomes": [
-			   "cultepack:ocean"
+			   "cultepack:ocean",
+			   "cultepack:ocean_chaud"
 ],
 	"step": "surface_structures",
 	"spawn_overrides": {},
